@@ -1,0 +1,85 @@
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\MySql.Data.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\Google.Protobuf.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\ZstdNet.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\System.Buffers.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\MySql.Data.xml
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.exe.config
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.Form1.resources
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.FrmMain.resources
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.Properties.Resources.resources
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\Database.D893235E.Up2Date
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\stdole.dll
+C:\Users\ACER\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.FrmMahasiswa.resources
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\CrystalDecisions.Shared.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\MySql.Data.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\Google.Protobuf.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\ZstdNet.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\BouncyCastle.Crypto.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\Ubiety.Dns.Core.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\System.Buffers.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\K4os.Compression.LZ4.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\K4os.Hash.xxHash.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\stdole.dll
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\bin\Debug\MySql.Data.xml
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.AssemblyReference.cache
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.SuggestedBindingRedirects.cache
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\obj\Debug\DatabaseConnection.exe.config
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\obj\Debug\DatabaseConnection.Form1.resources
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\obj\Debug\DatabaseConnection.FrmMahasiswa.resources
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\obj\Debug\DatabaseConnection.FrmMain.resources
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\obj\Debug\DatabaseConnection.Properties.Resources.resources
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.GenerateResource.cache
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CoreCompileInputs.cache
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\obj\Debug\Database.D893235E.Up2Date
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
+D:\for tugas vispro\tugas Crystal Report\DatabaseConnection\obj\Debug\DatabaseConnection.Akun.resources
